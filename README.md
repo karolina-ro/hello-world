@@ -1,4 +1,6 @@
 # hello-world
 My first repository
 
-I want to learn everything
+I want to learn every possibility.
+
+Nice to mmet you!
